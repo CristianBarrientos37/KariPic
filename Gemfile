@@ -62,4 +62,4 @@ gem "activestorage", "~> 7.2"
 
 gem "figaro", "~> 1.2"
 
-gem "aws-sdk-s3", "~> 1.176"
+gem "aws-sdk-s3", "~> 1.182"
